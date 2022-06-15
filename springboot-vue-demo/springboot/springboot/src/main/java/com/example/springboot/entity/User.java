@@ -14,8 +14,10 @@ public class User {
     private Integer id;
     private String username;
     private String password;
+    private String nickName;
     private Integer age;
     private String sex;
+    private Integer role;
 //    private String address
 
 }
